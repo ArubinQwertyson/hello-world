@@ -5,7 +5,7 @@ Just another repository
 
 I don't know why you would be reading this.
 There is no useful information here.
-You should problem find something better to read.
+You should probably find something better to read.
 
 Look, if you're hoping to find something insightful or useful, here you're going to be disappointed.
 Alright, why are you still reading?
